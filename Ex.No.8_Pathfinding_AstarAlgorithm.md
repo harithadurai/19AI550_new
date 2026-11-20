@@ -1,6 +1,6 @@
 # Ex.No: 8  Implementation of Path finding using A* algorithm
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 14/11/26                                                                          
+### REGISTER NUMBER : 212225040118
 ### AIM: 
 To write a program to create graph using waypoints and use A* algorithm to find path between source and destination.
 ### Algorithm:
@@ -137,9 +137,16 @@ Check the following
 3. WaypointGraph script on a manager
 4. AICharacter assigned a start and goal
 ### Output:
+```
+<img width="1920" height="1080" alt="Screenshot (681)" src="https://github.com/user-attachments/assets/80c39820-bd93-4ce1-9fe3-5cf623596acd" />
+<img width="1920" height="1080" alt="Screenshot (682)" src="https://github.com/user-attachments/assets/6d45697f-dea3-4051-b246-7e2b9e21b31c" />
+<img width="1920" height="1080" alt="Screenshot (683)" src="https://github.com/user-attachments/assets/5ccece0f-8e2b-4103-8dff-3125258e6523" />
+<img width="1920" height="1080" alt="Screenshot (684)" src="https://github.com/user-attachments/assets/3deea6ce-9aef-46c9-a340-246457c911f4" />
+<img width="1920" height="1080" alt="Screenshot (678)" src="https://github.com/user-attachments/assets/c68dcab6-eccd-4233-8316-328bb42f7a34" />
+<img width="1920" height="1080" alt="Screenshot (679)" src="https://github.com/user-attachments/assets/8638c864-b1fb-445c-a6de-fd05a5e21642" />
+<img width="1920" height="1080" alt="Screenshot (680)" src="https://github.com/user-attachments/assets/9b8812da-eb32-4275-8333-0862eb63a9cf" />
 
-
-
+```
 
 
 
